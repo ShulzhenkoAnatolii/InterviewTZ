@@ -1,0 +1,1 @@
+call java -jar .\target\Interview-1.0-SNAPSHOT.jar

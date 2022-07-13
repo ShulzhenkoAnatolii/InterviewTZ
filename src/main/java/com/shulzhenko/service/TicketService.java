@@ -4,8 +4,8 @@ import com.shulzhenko.entity.Ticket;
 
 public interface TicketService {
 
-    void createTicket (Ticket ticket);
+    void create (Ticket ticket);
 
-    boolean findById (Long id);
+    boolean findById (Integer id);
 
 }
